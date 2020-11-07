@@ -9,3 +9,5 @@ pyvenv.cfg
 *.pdf
 *.png
 
+# log files
+*.log
