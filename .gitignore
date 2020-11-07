@@ -1,0 +1,11 @@
+# python
+/bin
+/lib
+/share
+.python-version
+pyvenv.cfg
+
+# output files
+*.pdf
+*.png
+
